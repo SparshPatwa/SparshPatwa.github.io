@@ -1,2 +1,1 @@
-# SparshPatwa.github.io
-Personal Page
+# Sparsh Patwa
